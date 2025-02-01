@@ -1,2 +1,2 @@
 # student_management
-This is the IOT based mini project.
+This is the javabased mini project.
