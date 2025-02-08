@@ -1,0 +1,66 @@
+body
+{
+    font-family: 'Arial', sans-serif;
+    background-color:white;
+}
+header
+{
+	background-image:url("https://png.pngtree.com/background/20210712/original/pngtree-d-indonesia-national-flag-frame-border-background-can-be-used-for-picture-image_1180187.jpg");
+    background-size: cover;
+}
+header img 
+{
+    max-width: 100%;
+    height: auto;
+}
+
+.navbar
+ {
+    margin-bottom: 30px;
+}
+.nav a
+{
+	text-decoration:none;
+	color:white;
+	padding:20px;
+}
+
+main
+{
+    padding: 20px 0;
+    text-align:justify;
+}
+
+.profile-img 
+{
+    border: 5px solid #fff;
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+}
+
+.btn-primary 
+{
+    background-color: #0077b5;
+    border-color: #0077b5;
+}
+.btn-primary:hover 
+{
+    background-color: #005f8b;
+    border-color: #005f8b;
+}
+
+.btn-dark 
+{
+    background-color: #333;
+    border-color: #333;
+}
+
+.btn-dark:hover
+{
+    background-color: #222;
+    border-color: #222;
+}
+
+footer 
+{
+    margin-top: 40px;
+}
