@@ -1,0 +1,57 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <title>Shreyash Mehta - Profile</title>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/css/bootstrap.min.css" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="profile.css">
+</head>
+<body>
+    <header class="text-center py-4 bg-light">
+    <img src="logo5.jpg" alt="Website Logo" class="img-fluid" width="180" height="160">
+    </header>
+    <nav class="navbar navbar-expand-lg navbar-dark bg-dark">
+        <div class="container-fluid">
+            <button class="navbar-toggler" type="button" data-bs-toggle="collapse" data-bs-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+                <span class="navbar-toggler-icon"></span>
+            </button>
+            <div class="collapse navbar-collapse justify-content-center" id="navbarNav">
+                <ul class="navbar-nav">
+                    <li class="nav-item"><a class="nav-link" href="profile.html">Home</a></li>
+                    <li class="nav-item"><a class="nav-link" href="education.html">Education</a></li>
+                    <li class="nav-item"><a class="nav-link" href="skills.html">Skills</a></li>
+                    <li class="nav-item"><a class="nav-link" href="location.html">Location</a></li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+    <main class="container my-5">
+        <div class="row">
+            <div class="col-md-4 text-center">
+                <img src="profile.jpg" alt="Shreyash Mehta's Profile Picture" class="img-fluid rounded-circle mb-3" width="200" height="200">
+                <div class="d-grid gap-2">
+                    <a href="https://www.linkedin.com/in/shreyash-mehta-0aab37255/" class="btn btn-primary btn-lg">LinkedIn</a>
+                    <a href="https://github.com/ShreyashMehta179" class="btn btn-dark btn-lg">GitHub</a>
+                </div>
+            </div>
+
+            <div class="col-md-8">
+                <h1 class="display-4 text-center mb-4">Welcome to Shreyash's World!</h1>
+                <p class="lead">
+                    Step into a space where innovation meets passion. This is the home of Shreyash, a dedicated Computer Science and Engineering student with a flair for mobile app development, a strong foundation in Java, and a growing expertise in full-stack web development. Explore projects, achievements, and insights that showcase a journey fueled by creativity and technical expertise. Let's build something amazing together!
+                </p>
+                <p>
+                    Whether you're here to explore my projects, learn more about my journey, or collaborate on exciting new ideas, you’re in the right place. Welcome to a world where curiosity meets code, and creativity sparks innovation. Let’s embark on this journey together—because the best ideas are always ahead of us. I enjoy tackling challenging problems, building innovative solutions, and continuously learning new technologies to grow as a developer.
+                </p>
+            </div>
+        </div>
+    </main>
+
+    <footer class="bg-dark text-white text-center py-3">
+        <p class="mb-0">WEBSITE OF SHREYASH MEHTA</p>
+    </footer>
+
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.3.0-alpha1/dist/js/bootstrap.bundle.min.js"></script>
+</body>
+</html>
